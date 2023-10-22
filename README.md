@@ -1,1 +1,1 @@
-# Javascript-begginers-head-first
+# Complete JavaScript for Begginers
